@@ -90,6 +90,7 @@ country
 These features are useful for future predictive modeling or recommendation systems.
 
 Output
-Image Image Image Image Image
+<img width="940" height="653" alt="Image" src="https://github.com/user-attachments/assets/4047a59a-f503-420d-8ce2-09e5457469ea" />
+<img width="992" height="668" alt="Image" src="https://github.com/user-attachments/assets/6d5e6d68-52cc-4431-8663-d809f909276a" />
 Conclusion
 This EDA helped in understanding Netflix’s content distribution, detecting outliers, and identifying important features. The insights gained from this analysis can be used for building machine learning models such as content recommendation or classification systems.
